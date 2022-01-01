@@ -14,7 +14,7 @@ Here you can see how the filters on the side can be used singularly or together 
 
 ## Summary
 
-Dana has created a website the provides a the user the data she wanted to present in a clear format that is able to be filtered.
+Dana has created a website that provides the user with the data she wanted to present in a clear format that is able to be filtered.
 
 **Drawbacks**
 
