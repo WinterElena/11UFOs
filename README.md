@@ -16,12 +16,14 @@ Here you can see how the filters on the side can be used singularly or together 
 Dana has created a website the provides a the user the data she wanted to present in a clear format that is able to be filtered.
 
 **Drawbacks**
-	*If a user types in a ##/##/#### format in the search instead of a #/#/#### for the date, no search results are returned.  Misleading, it may cause the user to think there are no results, rather than adjust the date format and try again.
+
+	-If a user types in a ##/##/#### format in the search instead of a #/#/#### for the date, no search results are returned.  This may be misleading, and cause the user to think there are no results, rather than adjust the date format and try again.
 ![unyieldingdate.PNG](static/images/unyieldingdate.PNG)
 
 
 **Recommendations**
-	*It would be helpful if there was a parameter that allowed for users to search the comments section of the data.  This would allow for the user to see if they could find parallels to experiences, or correlate data if they wished to do so.
 
-	*Currently, the website functionality doesn't allow for the search boxes to have old search data cleared unless the user clicks on the 'UFO Sightings' words in the upper left corner.  And there is no direction telling the user to do so, I only know this information, because I helped assist Dana in building her website.  It would be a cleaner and more user-friendly experience if the website design allowed for those fields to be cleared after each search.  (Yikes, I probably should have mentioned that to Dana, before we launched.  If she asks, I'll claim I was body snatched.)
-![bodysnatch.jpg](static/images/bodysnatch.jpg)
+	-It would be helpful if there was a parameter that allowed for users to search the comments section of the data.  This would allow for the user to see if they could find parallels to experiences, or correlate data if they wished to do so.
+
+	-Currently, the website functionality doesn't allow for the search boxes to have old search data cleared unless the user clicks on the 'UFO Sightings' words in the upper left corner.  And there is no direction telling the user to do so, I only know this information, because I helped assist Dana in building her website.  It would be a cleaner and more user-friendly experience if the website design allowed for those fields to be cleared after each search.  (Yikes, I probably should have mentioned that to Dana, before we launched.  If she asks, I'll claim I was body snatched.)
+![bodysnatch.JPG](static/images/bodysnatch.JPG)
